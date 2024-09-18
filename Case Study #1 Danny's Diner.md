@@ -1,6 +1,6 @@
 ![Ilustration of a bowl of ramen and title of the case study.](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
-# Case Study Questions
+# :ramen: Case Study Questions
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
@@ -15,7 +15,7 @@
 11. Bonus Join All The Things
 12. Bonus Rank All The Things
 
-# SQL queries
+# :ramen: SQL queries
 
 I've used PostgreSQL for this project. 
 
